@@ -1,5 +1,5 @@
 _repo: Jean-Jacques-Rousseau-ja-hanen-filosofiansa_52960
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Jean Jacques Rousseau og hans filosofi. Finnish
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     deathdate: 1930
     gutenberg_agent_id: '8119'
     url: http://www.gutenberg.org/2009/agents/8119
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Høffding, Harald
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33459
     wikipedia: http://en.wikipedia.org/wiki/Harald_H%C3%B8ffding
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52960#Jean-Jacques-Rousseau-ja-hanen-filosofiansa
 gutenberg_issued: '2016-09-02'
 gutenberg_type: Text
 identifiers:
